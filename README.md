@@ -7,7 +7,7 @@ Este proyecto es una página web dedicada a la promoción y venta de audífonos 
 
 ![image](img/techPRO.png)
 
-![image](img/techPRO2.png)
+![image](https://github.com/JEB76-22/techPRO/blob/2c5be6ec3a22f9e63cbb7a19e5f261a2fbaea7ca/img/techPRPO2.png)
 
 ![image](img/techPRO3.png)
 
