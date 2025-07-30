@@ -5,7 +5,7 @@ Este proyecto es una página web dedicada a la promoción y venta de audífonos 
 
 [TechPRO](https://techpro-2025.netlify.app)
 
-[App Screenshot](img/techPRO.png)
+[img/techPRO.png](img/techPRO.png)
 
 
 ## Estructura del Proyecto
