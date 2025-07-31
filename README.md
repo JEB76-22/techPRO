@@ -30,3 +30,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull re
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
+## Authors
+- [@JEV$DEV](https://www.github.com/JEB76-22)
