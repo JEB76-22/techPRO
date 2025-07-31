@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto es una página web dedicada a la promoción y venta de audífonos de la marca TechPRO. Incluye información sobre los productos, características, y un formulario de suscripción para recibir actualizaciones.
 
-[TechPRO](https://techpro-2025.netlify.app)
+*[TechPRO](https://techpro-2025.netlify.app)*
 
 ![image](img/techPRO.png)
 
@@ -31,4 +31,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull re
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
 ## Autor
-- [@JEV$DEV](https://www.github.com/JEB76-22)
+- [@JEB$DEV](https://www.github.com/JEB76-22)
